@@ -1,4 +1,4 @@
-# 🥝 MRI Kiwi Image Analysis
+#  MRI Kiwi Image Analysis
 
 A Python-based project for analyzing **3D MRI scans of kiwi fruit**, focusing on detecting and segmenting internal structures such as the **core** and **seeds**.  
 The project applies advanced **image processing** techniques including contrast enhancement, morphological filtering, line fitting, radial gradient masking, and region growing to isolate and compare fruit components.
@@ -16,7 +16,7 @@ The project applies advanced **image processing** techniques including contrast 
 ---
 
 
-## 🧠 Method Overview
+##  Method Overview
 
 1. **Preprocessing** — Contrast enhancement and noise reduction  
 2. **Morphological Operations** — Clean binary masks of fruit components  
@@ -29,7 +29,7 @@ Precise explanation:
 
 ---
 
-## 📂 Setup
+##  Setup
 
 Before running the script, organize your files as follows:
 ```bash
@@ -46,7 +46,7 @@ kiwi_MRI_analysis/
 ├── README.md                  
 └── __pycache__/               
 ```
-🧩 Make sure you've installed this dependencies
+ Make sure you've installed this dependencies
 
 - Python ≥ 3.8
 - NumPy 
@@ -58,7 +58,7 @@ kiwi_MRI_analysis/
 
 
 
-🖥 Each generated file is a NIfTI (.nii.gz) so it can be viewed by using standard medical image viewers such as:
+ Each generated file is a NIfTI (.nii.gz) so it can be viewed by using standard medical image viewers such as:
 
 - ITK-SNAP (I’ve worked with this software)
 - 3D Slicer
@@ -68,7 +68,7 @@ kiwi_MRI_analysis/
 
 ---
 
-## 🧪 Example Visualization
+##  Example Visualization
 
 <img width="465" height="499" alt="obraz" src="https://github.com/user-attachments/assets/b9780e63-1658-4e10-87bb-3f4c0e97ef80" />
 <img width="465" height="499" alt="obraz" src="https://github.com/user-attachments/assets/f3afbf9d-4845-4052-b284-b2d7b0e68ea8" />
@@ -78,11 +78,11 @@ kiwi_MRI_analysis/
 
 ---
 
-## ✒️ Authors
+##  Authors
 - Patryk Pełka
 - Robert Wewersowicz
 
 ---
-🧠 Citation
+ Citation
 
 If you use this project in academic work, please cite or reference this repository.
