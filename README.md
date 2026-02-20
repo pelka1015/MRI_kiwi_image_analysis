@@ -5,7 +5,7 @@ The project applies advanced **image processing** techniques including contrast 
 
 ---
 
-## 📋 Features
+##  Features
 
 - Detects and fits the **core axis** of the kiwi  
 - Extracts and segments the **core** and **seeds**  
